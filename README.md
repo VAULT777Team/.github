@@ -38,7 +38,7 @@ Processed ~1.9M bets, ~3.5K wallets, and ~$450M handle on public testnet with cl
 
 ## Official Links
 
-Website: vault777.com
-Telegram: t.me/Vault777Casino
-Twitter: @Vault777Casino
-Email: [support@vault777.com](mailto:support@vault777.com)
+- Website: [vault777.com](https://vault777.com)
+- Telegram: [t.me/Vault777Casino](https://t.me/Vault777Casino)
+- Twitter/X: [@Vault777Casino](https://x.com/Vault777Casino)
+- Email: [support@vault777.com](mailto:support@vault777.com)
